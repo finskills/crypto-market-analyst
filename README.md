@@ -24,7 +24,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill crypto-market-analyst
+npx skills add https://github.com/finskills/crypto-market-analyst --skill crypto-market-analyst
 ```
 
 ## Quick Start
@@ -63,7 +63,7 @@ Claude: [Fetches top 20 market data + BTC/ETH history, computes dominance, cycle
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — **free plan is sufficient**
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available) — **free plan is sufficient**
 - **Claude** with skill support
 
 ## License
