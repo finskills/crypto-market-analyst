@@ -1,14 +1,15 @@
 ---
 name: Crypto Market Analyst
-version: 1.0.1
+version: 1.0.2
 description: "Analyze Bitcoin, Ethereum, and major altcoins using real-time price, on-chain signals, and macro context from the Finskills API."
 author: finskills
-homepage: https://github.com/finskills/crypto-market-analyst
-credentials:
-  - name: FINSKILLS_API_KEY
-    description: "Finskills API key — register for free at https://finskills.net (free tier sufficient for all endpoints used in this skill)"
-    required: true
-    link: https://finskills.net
+metadata:
+  openclaw:
+    requires:
+      env:
+        - FINSKILLS_API_KEY
+    primaryEnv: FINSKILLS_API_KEY
+  homepage: https://github.com/finskills/crypto-market-analyst
 ---
 
 # Crypto Market Analyst
