@@ -23,9 +23,11 @@
 
 ## Install
 
-```bash
-npx skills add https://github.com/finskills/crypto-market-analyst --skill crypto-market-analyst
-```
+Add this skill via [ClawHub](https://clawhub.ai/finskills/crypto-market-analyst):
+
+1. Visit **[https://clawhub.ai/finskills/crypto-market-analyst](https://clawhub.ai/finskills/crypto-market-analyst)**
+2. Click **Download zip** and follow the setup instructions
+3. Set your API key: `FINSKILLS_API_KEY=your_key_here`
 
 ## Quick Start
 

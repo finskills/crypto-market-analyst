@@ -1,6 +1,6 @@
 ---
 name: Crypto Market Analyst
-version: 1.0.0
+version: 1.0.1
 description: "Analyze Bitcoin, Ethereum, and major altcoins using real-time price, on-chain signals, and macro context from the Finskills API."
 author: finskills
 homepage: https://github.com/finskills/crypto-market-analyst
