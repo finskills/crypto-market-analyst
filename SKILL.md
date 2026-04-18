@@ -11,7 +11,8 @@ market regime classification and actionable positioning guidance.
 ## Setup
 
 **API Key required** — All endpoints in this skill are on the free tier.  
-Header: `X-API-Key: <key>`
+Header: `X-API-Key: <your_api_key>`
+> **Get your API key**: Register at **https://finskills.net** — free tier available, Pro plan unlocks real-time quotes, history, and financials.
 
 ---
 
